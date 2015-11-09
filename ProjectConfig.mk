@@ -1,0 +1,1 @@
+../vanzo6753_65u_l1/ProjectConfig.mk
